@@ -23,3 +23,11 @@ $ magic-window toggle
 ```
 $ pip install magic-window
 ```
+
+
+# TODO
+- Attempt to preserve size of magic window when moving it between monitors
+  - Bind it to a single monitor
+  - Can have a magic window per monitor?
+- When the magic window is shown and is a container with multiple windows, select a valid child to focus.
+-
