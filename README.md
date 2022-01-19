@@ -20,3 +20,6 @@ $ magic-window toggle
 ```
 
 # Installation
+```
+$ pip install magic-window
+```
